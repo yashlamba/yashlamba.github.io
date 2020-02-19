@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Yash Lamba ">
 <meta name="description" content="Most developers prefer to use Linux or MacOS for development and the major reason in simple terms is the terminal and the ease they provide with their development environments. Windows has always been avoided by most developers (as far as I see in the community) but recently, after the announcement of Windows terminal and the increasing popularity of Windows Subsytem for Linux, many people have taken a stab at developing with Windows without having to install a Linux distro or use a Virtual Machine or in extreme cases, buy Macbooks." />
-<meta name="keywords" content="homepage, blog, science, informatics, development, programming" />
+<meta name="keywords" content="homepage, blog, science, informatics, development, programming, wsl, flutter, windows, linux, setup" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
 <link rel="canonical" href="https://yashlamba.github.io/blogs/1/" />
@@ -73,7 +73,11 @@
         
             <span class="logo__mark">></span>
             <span class="logo__text">$ cd /home/</span>
-            <span class="logo__cursor" style="background-color:#00FFD3"></span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
         
     </div>
 </a>
@@ -82,7 +86,7 @@
         <span class="header__right">
             
                 <nav class="menu">
-    <ul class="menu__inner"><li><a href="https://yashlamba.github.io/about">About</a></li><li><a href="https://yashlamba.github.io/blogs">Blog</a></li><li><a href="https://yashlamba.github.io/projects">Projects</a></li>
+    <ul class="menu__inner"><li><a href="https://yashlamba.github.io/about">About</a></li><li><a href="https://yashlamba.github.io/blogs">Blog</a></li><li><a href="https://yashlamba.github.io/resume.pdf">Resume</a></li>
     </ul>
 </nav>
 
@@ -126,16 +130,16 @@
 </h2>
 <p>Most developers prefer to use Linux or MacOS for development and the major reason in simple terms is the <strong>terminal</strong> and the ease they provide with their development environments. Windows has always been avoided by most developers (as far as I see in the community) but recently, after the announcement of Windows terminal and the increasing popularity of Windows Subsytem for Linux, many people have taken a stab at developing with Windows without having to install a Linux distro or use a Virtual Machine or in extreme cases, buy Macbooks.</p>
 <p>Recently, Flutter has been gaining extreme popularity and everyone is ditching native development to see what Flutter has to offer. I personally like flutter because how easy, fast and beautiful it is. It helps design UIs easily for the algorithms/backend I am working on.</p>
-<p>Coming to the main topic, it is pretty easy to setup flutter for any platform be it Windows, Linux or MacOS. But what I wasn't able to find anywhere was how to use flutter with WSL. Anyone can switch to powershell/cmd for using flutter though, but I like things at one place and below are the steps for the workaound:</p>
+<p>Coming to the main topic, it is pretty easy to setup flutter for any platform be it Windows, Linux or MacOS. But what I wasn&rsquo;t able to find anywhere was how to use flutter with WSL. Anyone can switch to powershell/cmd for using flutter though, but I like things at one place and below are the steps for the workaound:</p>
 <ol>
 <li>
-<p><strong>Install Flutter in Windows</strong>: This is pretty straight forward and one can do this easily by following this <a href="https://flutter.dev/docs/get-started/install/Windows">link</a>, you'll also want to install Android Studio for the SDK in Windows itself. Finally, just make sure flutter works in powershell/cmd.</p>
+<p><strong>Install Flutter in Windows</strong>: This is pretty straight forward and one can do this easily by following this <a href="https://flutter.dev/docs/get-started/install/Windows">link</a>, you&rsquo;ll also want to install Android Studio for the SDK in Windows itself. Finally, just make sure flutter works in powershell/cmd.</p>
 </li>
 <li>
 <p><strong>WSL</strong>: I assume that you have WSL already setup, if not, you can follow <a href="https://docs.microsoft.com/en-us/Windows/wsl/install-win10">this</a>.</p>
 </li>
 </ol>
-<p>But now, if you'll try to use Flutter in WSL bash, you will see an error like below.</p>
+<p>But now, if you&rsquo;ll try to use Flutter in WSL bash, you will see an error like below.</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">user@user:~/flutterproject$ flutter run
 /mnt/c/Development/flutter/bin/flutter: line 5: <span style="color:#e6db74">$&#39;\r&#39;</span>: command not found
 /mnt/c/Development/flutter/bin/flutter: line 6: <span style="color:#e6db74">$&#39;\r&#39;</span>: command not found
@@ -201,12 +205,12 @@ flutter<span style="color:#f92672">(</span><span style="color:#f92672">)</span> 
                 <footer class="footer">
     <div class="footer__inner">
         <div class="footer__content">
-            <span>&copy; 2019</span>
+            <span>&copy; 2020</span>
             
                 <span><a href="https://yashlamba.github.io/">Yash Lamba</a></span>
             
             <span><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></span>
-            
+            <span> <a href="https://yashlamba.github.io/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
         </div>
     </div>
     <div class="footer__inner">
