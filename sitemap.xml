@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yashlamba.github.io/projects/simulate/</loc>
+  </url><url>
     <loc>https://yashlamba.github.io/blogs/</loc>
     <lastmod>2019-12-19T16:08:40+05:30</lastmod>
   </url><url>
@@ -33,11 +35,19 @@
   </url><url>
     <loc>https://yashlamba.github.io/tags/algorithms/</loc>
   </url><url>
+    <loc>https://yashlamba.github.io/tags/api/</loc>
+  </url><url>
+    <loc>https://yashlamba.github.io/tags/backend/</loc>
+  </url><url>
     <loc>https://yashlamba.github.io/tags/computer-vision/</loc>
+  </url><url>
+    <loc>https://yashlamba.github.io/tags/docker/</loc>
   </url><url>
     <loc>https://yashlamba.github.io/tags/fontography/</loc>
   </url><url>
     <loc>https://yashlamba.github.io/projects/handwrite/</loc>
+  </url><url>
+    <loc>https://yashlamba.github.io/projects/handwrite-web/</loc>
   </url><url>
     <loc>https://yashlamba.github.io/tags/mathematics/</loc>
   </url><url>
@@ -49,6 +59,6 @@
   </url><url>
     <loc>https://yashlamba.github.io/tags/python/</loc>
   </url><url>
-    <loc>https://yashlamba.github.io/projects/simulate/</loc>
+    <loc>https://yashlamba.github.io/tags/react/</loc>
   </url>
 </urlset>
