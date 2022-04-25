@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on home/</title>
-    <link>https://yashlamba.github.io/blogs/</link>
+    <link>https://yashlamba.com/blogs/</link>
     <description>Recent content in Blogs on home/</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Sun, 24 Apr 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snake Game in Minutes with Flutter</title>
-      <link>https://yashlamba.github.io/blogs/flutter-snake/</link>
+      <link>https://yashlamba.com/blogs/flutter-snake/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
       
-      <guid>https://yashlamba.github.io/blogs/flutter-snake/</guid>
+      <guid>https://yashlamba.com/blogs/flutter-snake/</guid>
       <description>Source: Snake Game
 DartPad: Play Snake Game
  Introduction Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.</description>
@@ -20,10 +20,10 @@ DartPad: Play Snake Game
     
     <item>
       <title>Working with Flutter on Windows Subsystem for Linux (WSL)</title>
-      <link>https://yashlamba.github.io/blogs/1/</link>
+      <link>https://yashlamba.com/blogs/1/</link>
       <pubDate>Thu, 19 Dec 2019 16:08:40 +0530</pubDate>
       
-      <guid>https://yashlamba.github.io/blogs/1/</guid>
+      <guid>https://yashlamba.com/blogs/1/</guid>
       <description>Most developers prefer to use Linux or MacOS for development and the major reason in simple terms is the terminal and the ease they provide with their development environments. Windows has always been avoided by most developers (as far as I see in the community) but recently, after the announcement of Windows terminal and the increasing popularity of Windows Subsytem for Linux, many people have taken a stab at developing with Windows without having to install a Linux distro or use a Virtual Machine or in extreme cases, buy Macbooks.</description>
     </item>
     
