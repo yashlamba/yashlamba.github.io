@@ -13,9 +13,8 @@
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
       
       <guid>https://yashlamba.com/blogs/flutter-snake/</guid>
-      <description>Source: Snake Game
-DartPad: Play Snake Game
- Introduction Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.</description>
+      <description>Introduction Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.
+In this tutorial, we’ll build the Snake Game with Flutter.</description>
     </item>
     
   </channel>
