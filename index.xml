@@ -47,6 +47,16 @@ I always find myself in situations where I know the most complicated stuff but e
     </item>
     
     <item>
+      <title>Books</title>
+      <link>https://yashlamba.com/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yashlamba.com/books/</guid>
+      <description> I used to read a lot from my 9-12 grade, but somehow lost the habit of reading in college. I have started reading again recently and decided to track the books I remember well. If you have any book recommendations, I&amp;rsquo;ll be happy to hear them via DMs/Mail.
+ Currently Reading .gr_grid_container { /* customize grid container div here. eg: width: 500px; */ } .gr_grid_book_container { /* customize book cover container div here */ float: left; width: 98px; height: 160px; padding: 0px 0px; overflow: hidden; }   Read  </description>
+    </item>
+    
+    <item>
       <title>Handwrite CLI</title>
       <link>https://yashlamba.com/projects/handwrite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
