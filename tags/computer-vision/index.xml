@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>computer vision on home/</title>
-    <link>https://yashlamba.github.io/tags/computer-vision/</link>
+    <link>https://yashlamba.com/tags/computer-vision/</link>
     <description>Recent content in computer vision on home/</description>
     <image>
-      <url>https://yashlamba.github.io/</url>
-      <link>https://yashlamba.github.io/</link>
+      <url>https://yashlamba.com/</url>
+      <link>https://yashlamba.com/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2022 Yash Lamba</copyright><atom:link href="https://yashlamba.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2022 Yash Lamba</copyright><atom:link href="https://yashlamba.com/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handwrite CLI</title>
-      <link>https://yashlamba.github.io/projects/handwrite/</link>
+      <link>https://yashlamba.com/projects/handwrite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yashlamba.github.io/projects/handwrite/</guid>
+      <guid>https://yashlamba.com/projects/handwrite/</guid>
       <description>Trying to solve the handwritten assignment crisis...</description>
     </item>
     
     <item>
       <title>Handwrite Web</title>
-      <link>https://yashlamba.github.io/projects/handwrite-web/</link>
+      <link>https://yashlamba.com/projects/handwrite-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yashlamba.github.io/projects/handwrite-web/</guid>
+      <guid>https://yashlamba.com/projects/handwrite-web/</guid>
       <description>Fitting Handwrite in a web app.</description>
     </item>
     

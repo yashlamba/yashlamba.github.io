@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>cheatsheet on home/</title>
-    <link>https://yashlamba.github.io/tags/cheatsheet/</link>
+    <link>https://yashlamba.com/tags/cheatsheet/</link>
     <description>Recent content in cheatsheet on home/</description>
     <image>
-      <url>https://yashlamba.github.io/</url>
-      <link>https://yashlamba.github.io/</link>
+      <url>https://yashlamba.com/</url>
+      <link>https://yashlamba.com/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.github.io/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Byte sized Python - Basics</title>
-      <link>https://yashlamba.github.io/blogs/python/bsp-basics/</link>
+      <link>https://yashlamba.com/blogs/python/bsp-basics/</link>
       <pubDate>Fri, 09 Sep 2022 21:52:20 +0530</pubDate>
       
-      <guid>https://yashlamba.github.io/blogs/python/bsp-basics/</guid>
+      <guid>https://yashlamba.com/blogs/python/bsp-basics/</guid>
       <description>Introduction Learning a new language can seem both easy and hard. There are concepts that seem to translate from a language you already know but there are some completely new things as well. This is generally the case with Python, even if you are an absolute beginner in programming. A lot of Python basics can be translated directly to english as well but the advanced concepts, not so much. This blog series aims to cover majority of python concepts and hopefully helping you learn about Python through simple to follow code snippets.</description>
     </item>
     

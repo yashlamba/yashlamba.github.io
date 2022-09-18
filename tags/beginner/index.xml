@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>beginner on home/</title>
-    <link>https://yashlamba.github.io/tags/beginner/</link>
+    <link>https://yashlamba.com/tags/beginner/</link>
     <description>Recent content in beginner on home/</description>
     <image>
-      <url>https://yashlamba.github.io/</url>
-      <link>https://yashlamba.github.io/</link>
+      <url>https://yashlamba.com/</url>
+      <link>https://yashlamba.com/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Sun, 24 Apr 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snake Game in Minutes with Flutter</title>
-      <link>https://yashlamba.github.io/blogs/flutter-snake/</link>
+      <link>https://yashlamba.com/blogs/flutter-snake/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
       
-      <guid>https://yashlamba.github.io/blogs/flutter-snake/</guid>
+      <guid>https://yashlamba.com/blogs/flutter-snake/</guid>
       <description>Introduction Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.
 In this tutorial, we’ll build the Snake Game with Flutter.</description>
     </item>

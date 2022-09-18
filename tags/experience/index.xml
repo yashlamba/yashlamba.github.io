@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>experience on home/</title>
-    <link>https://yashlamba.github.io/tags/experience/</link>
+    <link>https://yashlamba.com/tags/experience/</link>
     <description>Recent content in experience on home/</description>
     <image>
-      <url>https://yashlamba.github.io/</url>
-      <link>https://yashlamba.github.io/</link>
+      <url>https://yashlamba.com/</url>
+      <link>https://yashlamba.com/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate><atom:link href="https://yashlamba.github.io/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/tags/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Web3 Experience: Polygon Fellowship 2022</title>
-      <link>https://yashlamba.github.io/blogs/polygon-fellowship-2022/</link>
+      <link>https://yashlamba.com/blogs/polygon-fellowship-2022/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
       
-      <guid>https://yashlamba.github.io/blogs/polygon-fellowship-2022/</guid>
+      <guid>https://yashlamba.com/blogs/polygon-fellowship-2022/</guid>
       <description>About the Fellowship Polygon Fellowship organised by Devfolio is an exclusive 8-week mentor-led learn-to-earn program to get started with Web3 development. The program has 2 tracks: Beginner Track and Builder Track. As the names suggest, Beginner track is focused on developers who are new to web3/are looking to start there web3 journey. Builder track is for more advanced developers who already know a bit web3 and are looking to work on mentor-guided projects.</description>
     </item>
     
