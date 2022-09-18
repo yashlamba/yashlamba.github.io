@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>home/</title>
-    <link>https://yashlamba.com/</link>
+    <link>https://yashlamba.github.io/</link>
     <description>Recent content on home/</description>
     <image>
-      <url>https://yashlamba.com/</url>
-      <link>https://yashlamba.com/</link>
+      <url>https://yashlamba.github.io/</url>
+      <link>https://yashlamba.github.io/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simulate</title>
-      <link>https://yashlamba.com/projects/simulate/</link>
+      <link>https://yashlamba.github.io/projects/simulate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yashlamba.com/projects/simulate/</guid>
+      <guid>https://yashlamba.github.io/projects/simulate/</guid>
       <description>Story of learning flutter through a fun project!</description>
     </item>
     
     <item>
       <title>Byte sized Python - Basics</title>
-      <link>https://yashlamba.com/blogs/python/bsp-basics/</link>
+      <link>https://yashlamba.github.io/blogs/python/bsp-basics/</link>
       <pubDate>Fri, 09 Sep 2022 21:52:20 +0530</pubDate>
       
-      <guid>https://yashlamba.com/blogs/python/bsp-basics/</guid>
+      <guid>https://yashlamba.github.io/blogs/python/bsp-basics/</guid>
       <description>Introduction Learning a new language can seem both easy and hard. There are concepts that seem to translate from a language you already know but there are some completely new things as well. This is generally the case with Python, even if you are an absolute beginner in programming. A lot of Python basics can be translated directly to english as well but the advanced concepts, not so much. This blog series aims to cover majority of python concepts and hopefully helping you learn about Python through simple to follow code snippets.</description>
     </item>
     
     <item>
       <title>My Web3 Experience: Polygon Fellowship 2022</title>
-      <link>https://yashlamba.com/blogs/polygon-fellowship-2022/</link>
+      <link>https://yashlamba.github.io/blogs/polygon-fellowship-2022/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
       
-      <guid>https://yashlamba.com/blogs/polygon-fellowship-2022/</guid>
+      <guid>https://yashlamba.github.io/blogs/polygon-fellowship-2022/</guid>
       <description>About the Fellowship Polygon Fellowship organised by Devfolio is an exclusive 8-week mentor-led learn-to-earn program to get started with Web3 development. The program has 2 tracks: Beginner Track and Builder Track. As the names suggest, Beginner track is focused on developers who are new to web3/are looking to start there web3 journey. Builder track is for more advanced developers who already know a bit web3 and are looking to work on mentor-guided projects.</description>
     </item>
     
     <item>
       <title>Snake Game in Minutes with Flutter</title>
-      <link>https://yashlamba.com/blogs/flutter-snake/</link>
+      <link>https://yashlamba.github.io/blogs/flutter-snake/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
       
-      <guid>https://yashlamba.com/blogs/flutter-snake/</guid>
+      <guid>https://yashlamba.github.io/blogs/flutter-snake/</guid>
       <description>Introduction Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.
 In this tutorial, we’ll build the Snake Game with Flutter.</description>
     </item>
     
     <item>
       <title>Working with Flutter on Windows Subsystem for Linux (WSL)</title>
-      <link>https://yashlamba.com/blogs/1/</link>
+      <link>https://yashlamba.github.io/blogs/1/</link>
       <pubDate>Thu, 19 Dec 2019 16:08:40 +0530</pubDate>
       
-      <guid>https://yashlamba.com/blogs/1/</guid>
+      <guid>https://yashlamba.github.io/blogs/1/</guid>
       <description>Most developers prefer to use Linux or MacOS for development and the major reason in simple terms is the terminal and the ease they provide with their development environments. Windows has always been avoided by most developers (as far as I see in the community) but recently, after the announcement of Windows terminal and the increasing popularity of Windows Subsytem for Linux, many people have taken a stab at developing with Windows without having to install a Linux distro or use a Virtual Machine or in extreme cases, buy Macbooks.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://yashlamba.com/about/</link>
+      <link>https://yashlamba.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yashlamba.com/about/</guid>
+      <guid>https://yashlamba.github.io/about/</guid>
       <description>Hi, here&amp;rsquo;s a little about me.
 I am a full-stack developer, currently building/breaking/fixing stuff at HackerRank. I have worked with a lot of technologies and am quite fast in learning new things as well. Currently, I am figuring out backend architecture, design, infra scaling and cloud. I have also tinkered with ML/AI (can get a lot of things working) but am not actively improving myself in those.
 I always find myself in situations where I know the most complicated stuff but end up Googling the simplest things (like how to read csv hehe).</description>
@@ -70,29 +70,29 @@ I always find myself in situations where I know the most complicated stuff but e
     
     <item>
       <title>Books</title>
-      <link>https://yashlamba.com/books/</link>
+      <link>https://yashlamba.github.io/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yashlamba.com/books/</guid>
+      <guid>https://yashlamba.github.io/books/</guid>
       <description> I used to read a lot from my 9-12 grade, but somehow lost the habit of reading in college. I have started reading again recently and decided to track the books I remember well. If you have any book recommendations, I&amp;rsquo;ll be happy to hear them via DMs/Mail.
 Currently Reading Read </description>
     </item>
     
     <item>
       <title>Handwrite CLI</title>
-      <link>https://yashlamba.com/projects/handwrite/</link>
+      <link>https://yashlamba.github.io/projects/handwrite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yashlamba.com/projects/handwrite/</guid>
+      <guid>https://yashlamba.github.io/projects/handwrite/</guid>
       <description>Trying to solve the handwritten assignment crisis...</description>
     </item>
     
     <item>
       <title>Handwrite Web</title>
-      <link>https://yashlamba.com/projects/handwrite-web/</link>
+      <link>https://yashlamba.github.io/projects/handwrite-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yashlamba.com/projects/handwrite-web/</guid>
+      <guid>https://yashlamba.github.io/projects/handwrite-web/</guid>
       <description>Fitting Handwrite in a web app.</description>
     </item>
     
