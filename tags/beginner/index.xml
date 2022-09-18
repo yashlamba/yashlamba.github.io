@@ -4,6 +4,10 @@
     <title>beginner on home/</title>
     <link>https://yashlamba.com/tags/beginner/</link>
     <description>Recent content in beginner on home/</description>
+    <image>
+      <url>https://yashlamba.com/</url>
+      <link>https://yashlamba.com/</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022 Yash Lamba</copyright>
     <lastBuildDate>Sun, 24 Apr 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/tags/beginner/index.xml" rel="self" type="application/rss+xml" />

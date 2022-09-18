@@ -4,6 +4,10 @@
     <title>Blogs on home/</title>
     <link>https://yashlamba.com/blogs/</link>
     <description>Recent content in Blogs on home/</description>
+    <image>
+      <url>https://yashlamba.com/</url>
+      <link>https://yashlamba.com/</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022 Yash Lamba</copyright>
     <lastBuildDate>Fri, 09 Sep 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/blogs/index.xml" rel="self" type="application/rss+xml" />
