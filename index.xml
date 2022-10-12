@@ -70,6 +70,15 @@ Currently Reading Read </description>
     </item>
     
     <item>
+      <title>CMU - Intro to Database Systems (Fall 2022) - Tagged Notes</title>
+      <link>https://yashlamba.com/moocs/intro-to-database-systems-fall-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yashlamba.com/moocs/intro-to-database-systems-fall-2022/</guid>
+      <description>Tags for each lecture in CMU - Intro to Database Systems (Fall 2022)</description>
+    </item>
+    
+    <item>
       <title>Handwrite CLI</title>
       <link>https://yashlamba.com/projects/handwrite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -85,15 +94,6 @@ Currently Reading Read </description>
       
       <guid>https://yashlamba.com/projects/handwrite-web/</guid>
       <description>Fitting Handwrite in a web app.</description>
-    </item>
-    
-    <item>
-      <title>MOOCs</title>
-      <link>https://yashlamba.com/moocs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yashlamba.com/moocs/</guid>
-      <description> CMU - Intro to Database Systems (Fall 2022) </description>
     </item>
     
     
