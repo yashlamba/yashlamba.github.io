@@ -79,6 +79,16 @@ Currently Reading Read </description>
     </item>
     
     <item>
+      <title>Explore</title>
+      <link>https://yashlamba.com/explore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yashlamba.com/explore/</guid>
+      <description> Projects, things I track etc.
+Projects Simulate: https://builtree.org/simulate Handwrite: https://builtree.org/handwrite Snake game: https://yashlamba.com/snake BoxIt: https://boxitdeploy.vercel.app/#/ (Not functional since Heroku removed free tier) Trackers Anime: https://anime.yashlamba.com Books: https://yashlamba.com/books Blogs: https://yashlamba.com/blogs MOOCs: https://yashlamba.com/moocs (WIP) Plants: Coming Soon! </description>
+    </item>
+    
+    <item>
       <title>Handwrite CLI</title>
       <link>https://yashlamba.com/projects/handwrite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
