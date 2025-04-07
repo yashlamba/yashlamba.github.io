@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>beginner on home/</title>
+    <title>Beginner on home/</title>
     <link>https://yashlamba.com/tags/beginner/</link>
-    <description>Recent content in beginner on home/</description>
+    <description>Recent content in Beginner on home/</description>
     <image>
+      <title>home/</title>
       <url>https://yashlamba.com/images/social_preview.png</url>
       <link>https://yashlamba.com/images/social_preview.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Sun, 24 Apr 2022 21:52:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Yash Lamba</copyright>
+    <lastBuildDate>Sun, 24 Apr 2022 21:52:20 +0530</lastBuildDate>
+    <atom:link href="https://yashlamba.com/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snake Game in Minutes with Flutter</title>
       <link>https://yashlamba.com/blogs/flutter-snake/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/blogs/flutter-snake/</guid>
-      <description>Introduction Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.
-In this tutorial, we’ll build the Snake Game with Flutter.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.&lt;/p&gt;
+&lt;p&gt;In this tutorial, we’ll build the Snake Game with Flutter. Some interesting things we’ll cover:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

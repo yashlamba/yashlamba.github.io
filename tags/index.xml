@@ -5,228 +5,182 @@
     <link>https://yashlamba.com/tags/</link>
     <description>Recent content in Tags on home/</description>
     <image>
+      <title>home/</title>
       <url>https://yashlamba.com/images/social_preview.png</url>
       <link>https://yashlamba.com/images/social_preview.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Yash Lamba</copyright>
+    <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate>
+    <atom:link href="https://yashlamba.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blockchain</title>
+      <title>Blockchain</title>
       <link>https://yashlamba.com/tags/blockchain/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/blockchain/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>experience</title>
+      <title>Experience</title>
       <link>https://yashlamba.com/tags/experience/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/experience/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fellow</title>
+      <title>Fellow</title>
       <link>https://yashlamba.com/tags/fellow/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/fellow/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>polygon</title>
+      <title>Polygon</title>
       <link>https://yashlamba.com/tags/polygon/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/polygon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web3</title>
+      <title>Web3</title>
       <link>https://yashlamba.com/tags/web3/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/web3/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>beginner</title>
+      <title>Beginner</title>
       <link>https://yashlamba.com/tags/beginner/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/beginner/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>flutter</title>
+      <title>Flutter</title>
       <link>https://yashlamba.com/tags/flutter/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/flutter/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>game</title>
+      <title>Game</title>
       <link>https://yashlamba.com/tags/game/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/game/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mini project</title>
+      <title>Mini Project</title>
       <link>https://yashlamba.com/tags/mini-project/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/mini-project/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>project</title>
+      <title>Project</title>
       <link>https://yashlamba.com/tags/project/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/project/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>linux</title>
+      <title>Linux</title>
       <link>https://yashlamba.com/tags/linux/</link>
       <pubDate>Thu, 19 Dec 2019 16:08:40 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>setup</title>
+      <title>Setup</title>
       <link>https://yashlamba.com/tags/setup/</link>
       <pubDate>Thu, 19 Dec 2019 16:08:40 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/setup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>windows</title>
+      <title>Windows</title>
       <link>https://yashlamba.com/tags/windows/</link>
       <pubDate>Thu, 19 Dec 2019 16:08:40 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/windows/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>wsl</title>
+      <title>Wsl</title>
       <link>https://yashlamba.com/tags/wsl/</link>
       <pubDate>Thu, 19 Dec 2019 16:08:40 +0530</pubDate>
-      
       <guid>https://yashlamba.com/tags/wsl/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>algorithms</title>
+      <title>Algorithms</title>
       <link>https://yashlamba.com/tags/algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/algorithms/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>API</title>
       <link>https://yashlamba.com/tags/api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/api/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>backend</title>
+      <title>Backend</title>
       <link>https://yashlamba.com/tags/backend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/backend/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>computer vision</title>
+      <title>Computer Vision</title>
       <link>https://yashlamba.com/tags/computer-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/computer-vision/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>docker</title>
+      <title>Docker</title>
       <link>https://yashlamba.com/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fontography</title>
+      <title>Fontography</title>
       <link>https://yashlamba.com/tags/fontography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/fontography/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mathematics</title>
+      <title>Mathematics</title>
       <link>https://yashlamba.com/tags/mathematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/mathematics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open source</title>
+      <title>Open Source</title>
       <link>https://yashlamba.com/tags/open-source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/open-source/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://yashlamba.com/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>react</title>
+      <title>React</title>
       <link>https://yashlamba.com/tags/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/tags/react/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

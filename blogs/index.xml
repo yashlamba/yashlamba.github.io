@@ -5,40 +5,38 @@
     <link>https://yashlamba.com/blogs/</link>
     <description>Recent content in Blogs on home/</description>
     <image>
+      <title>home/</title>
       <url>https://yashlamba.com/images/social_preview.png</url>
       <link>https://yashlamba.com/images/social_preview.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Yash Lamba</copyright>
+    <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate>
+    <atom:link href="https://yashlamba.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Web3 Experience: Polygon Fellowship 2022</title>
       <link>https://yashlamba.com/blogs/polygon-fellowship-2022/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/blogs/polygon-fellowship-2022/</guid>
-      <description>About the Fellowship Polygon Fellowship organised by Devfolio is an exclusive 8-week mentor-led learn-to-earn program to get started with Web3 development. The program has 2 tracks: Beginner Track and Builder Track. As the names suggest, Beginner track is focused on developers who are new to web3/are looking to start there web3 journey. Builder track is for more advanced developers who already know a bit web3 and are looking to work on mentor-guided projects.</description>
+      <description>&lt;h2 id=&#34;about-the-fellowship&#34;&gt;About the Fellowship&lt;/h2&gt;
+&lt;p&gt;Polygon Fellowship organised by Devfolio is an exclusive 8-week mentor-led learn-to-earn program to get started with Web3 development. The program has 2 tracks: Beginner Track and Builder Track. As the names suggest, Beginner track is focused on developers who are new to web3/are looking to start there web3 journey. Builder track is for more advanced developers who already know a bit web3 and are looking to work on mentor-guided projects.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Snake Game in Minutes with Flutter</title>
       <link>https://yashlamba.com/blogs/flutter-snake/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/blogs/flutter-snake/</guid>
-      <description>Introduction Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.
-In this tutorial, we’ll build the Snake Game with Flutter.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.&lt;/p&gt;
+&lt;p&gt;In this tutorial, we’ll build the Snake Game with Flutter. Some interesting things we’ll cover:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Working with Flutter on Windows Subsystem for Linux (WSL)</title>
       <link>https://yashlamba.com/blogs/1/</link>
       <pubDate>Thu, 19 Dec 2019 16:08:40 +0530</pubDate>
-      
       <guid>https://yashlamba.com/blogs/1/</guid>
-      <description>Most developers prefer to use Linux or MacOS for development and the major reason in simple terms is the terminal and the ease they provide with their development environments. Windows has always been avoided by most developers (as far as I see in the community) but recently, after the announcement of Windows terminal and the increasing popularity of Windows Subsytem for Linux, many people have taken a stab at developing with Windows without having to install a Linux distro or use a Virtual Machine or in extreme cases, buy Macbooks.</description>
+      <description>&lt;p&gt;Most developers prefer to use Linux or MacOS for development and the major reason in simple terms is the &lt;strong&gt;terminal&lt;/strong&gt; and the ease they provide with their development environments. Windows has always been avoided by most developers (as far as I see in the community) but recently, after the announcement of Windows terminal and the increasing popularity of Windows Subsytem for Linux, many people have taken a stab at developing with Windows without having to install a Linux distro or use a Virtual Machine or in extreme cases, buy Macbooks.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

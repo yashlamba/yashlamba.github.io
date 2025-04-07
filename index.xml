@@ -5,108 +5,135 @@
     <link>https://yashlamba.com/</link>
     <description>Recent content on home/</description>
     <image>
+      <title>home/</title>
       <url>https://yashlamba.com/images/social_preview.png</url>
       <link>https://yashlamba.com/images/social_preview.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 Yash Lamba</copyright>
-    <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate><atom:link href="https://yashlamba.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Yash Lamba</copyright>
+    <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate>
+    <atom:link href="https://yashlamba.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simulate</title>
       <link>https://yashlamba.com/projects/simulate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/projects/simulate/</guid>
       <description>Story of learning flutter through a fun project!</description>
     </item>
-    
     <item>
       <title>My Web3 Experience: Polygon Fellowship 2022</title>
       <link>https://yashlamba.com/blogs/polygon-fellowship-2022/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/blogs/polygon-fellowship-2022/</guid>
-      <description>About the Fellowship Polygon Fellowship organised by Devfolio is an exclusive 8-week mentor-led learn-to-earn program to get started with Web3 development. The program has 2 tracks: Beginner Track and Builder Track. As the names suggest, Beginner track is focused on developers who are new to web3/are looking to start there web3 journey. Builder track is for more advanced developers who already know a bit web3 and are looking to work on mentor-guided projects.</description>
+      <description>&lt;h2 id=&#34;about-the-fellowship&#34;&gt;About the Fellowship&lt;/h2&gt;
+&lt;p&gt;Polygon Fellowship organised by Devfolio is an exclusive 8-week mentor-led learn-to-earn program to get started with Web3 development. The program has 2 tracks: Beginner Track and Builder Track. As the names suggest, Beginner track is focused on developers who are new to web3/are looking to start there web3 journey. Builder track is for more advanced developers who already know a bit web3 and are looking to work on mentor-guided projects.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Snake Game in Minutes with Flutter</title>
       <link>https://yashlamba.com/blogs/flutter-snake/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
-      
       <guid>https://yashlamba.com/blogs/flutter-snake/</guid>
-      <description>Introduction Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.
-In this tutorial, we’ll build the Snake Game with Flutter.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Snake game is probably one of the most known video games in the world and I have built it multiple times, why? Because it’s a good intro project to any new language or framework. I have built it with Python, C++, Javascript, and Dart (Flutter). I frequently use it as an example when I’m teaching someone the basics of a language/framework.&lt;/p&gt;
+&lt;p&gt;In this tutorial, we’ll build the Snake Game with Flutter. Some interesting things we’ll cover:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Working with Flutter on Windows Subsystem for Linux (WSL)</title>
       <link>https://yashlamba.com/blogs/1/</link>
       <pubDate>Thu, 19 Dec 2019 16:08:40 +0530</pubDate>
-      
       <guid>https://yashlamba.com/blogs/1/</guid>
-      <description>Most developers prefer to use Linux or MacOS for development and the major reason in simple terms is the terminal and the ease they provide with their development environments. Windows has always been avoided by most developers (as far as I see in the community) but recently, after the announcement of Windows terminal and the increasing popularity of Windows Subsytem for Linux, many people have taken a stab at developing with Windows without having to install a Linux distro or use a Virtual Machine or in extreme cases, buy Macbooks.</description>
+      <description>&lt;p&gt;Most developers prefer to use Linux or MacOS for development and the major reason in simple terms is the &lt;strong&gt;terminal&lt;/strong&gt; and the ease they provide with their development environments. Windows has always been avoided by most developers (as far as I see in the community) but recently, after the announcement of Windows terminal and the increasing popularity of Windows Subsytem for Linux, many people have taken a stab at developing with Windows without having to install a Linux distro or use a Virtual Machine or in extreme cases, buy Macbooks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://yashlamba.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/about/</guid>
-      <description>Hi, here&amp;rsquo;s a little about me.
-I am a software engineer currently working at CERN. I&amp;rsquo;ve worked on multiple projects and am fast at learning new things. Currently, I am getting better at software architecture, databases and cloud. I have also worked on building production ready ML/AI systems.
-I always find myself in situations where I know the most complicated stuff but end up Googling the simplest things (like how to read csv hehe).</description>
+      <description>&lt;p&gt;Hi, here&amp;rsquo;s a little about me.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I am a software engineer currently working at CERN. I&amp;rsquo;ve worked on multiple projects and am fast at learning new things. Currently, I am getting better at software architecture, databases and cloud. I have also worked on building production ready ML/AI systems.&lt;/p&gt;
+&lt;p&gt;I always find myself in situations where I know the most complicated stuff but end up Googling the simplest things (like how to read csv hehe). I can learn new stuff fairly quickly and build amazing things with it! You can find most of my builds on &lt;a href=&#34;https://github.com/yashlamba&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Books</title>
       <link>https://yashlamba.com/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/books/</guid>
-      <description> I used to read a lot from my 9-12 grade, but somehow lost the habit of reading in college. I have started reading again recently and decided to track the books I remember well. If you have any book recommendations, I&amp;rsquo;ll be happy to hear them via DMs/Mail.
-Currently Reading Read </description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I used to read a lot from my 9-12 grade, but somehow lost the habit of reading in college. I have started reading again recently and decided to track the books I remember well. If you have any book recommendations, I&amp;rsquo;ll be happy to hear them via DMs/Mail.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;currently-reading&#34;&gt;Currently Reading&lt;/h3&gt;
+
+
+&lt;style type=&#34;text/css&#34; media=&#34;screen&#34;&gt;
+.gr_grid_container {
+    /* customize grid container div here. eg: width: 500px; */
+}
+
+.gr_grid_book_container {
+    /* customize book cover container div here */
+    float: left;
+    width: 98px;
+    height: 160px;
+    padding: 0px 0px;
+    overflow: hidden;
+}
+&lt;/style&gt;
+
+&lt;script src=&#34;https://www.goodreads.com/review/grid_widget/70532986.Yash&#39;s%20currently-reading%20book%20montage?cover_size=medium&amp;hide_link=true&amp;hide_title=true&amp;num_books=100&amp;order=a&amp;shelf=currently-reading&amp;sort=date_added&amp;widget_id=1650987012&#34; type=&#34;text/javascript&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;br style=&#34;clear:both;&#34;&gt;
+&lt;br&gt;
+
+
+&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;
+
+
+&lt;script src=&#34;https://www.goodreads.com/review/grid_widget/70532986.Yash&#39;s%20read%20book%20montage?cover_size=medium&amp;hide_link=&amp;hide_title=true&amp;num_books=100&amp;order=a&amp;shelf=read&amp;sort=date_added&amp;widget_id=1650986086&#34; type=&#34;text/javascript&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>CMU - Intro to Database Systems (Fall 2022) - Topics</title>
       <link>https://yashlamba.com/moocs/intro-to-database-systems-fall-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/moocs/intro-to-database-systems-fall-2022/</guid>
       <description>Tags for each lecture in CMU - Intro to Database Systems (Fall 2022)</description>
     </item>
-    
     <item>
       <title>Explore</title>
       <link>https://yashlamba.com/explore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/explore/</guid>
-      <description> Projects, things I track etc.
-Projects Simulate: https://builtree.org/simulate Handwrite: https://builtree.org/handwrite Snake game: https://yashlamba.com/snake BoxIt: https://boxitdeploy.vercel.app/#/ (Maybe functional? Free servers generally suck) Trackers Anime: https://anime.yashlamba.com Books: https://yashlamba.com/books Blogs: https://yashlamba.com/blogs Food: https://food.yashlamba.com Plants: Coming Soon! </description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Projects, things I track etc.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Simulate: &lt;a href=&#34;https://builtree.org/simulate&#34;&gt;https://builtree.org/simulate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Handwrite: &lt;a href=&#34;https://builtree.org/handwrite&#34;&gt;https://builtree.org/handwrite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Snake game: &lt;a href=&#34;https://yashlamba.com/snake&#34;&gt;https://yashlamba.com/snake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BoxIt: &lt;a href=&#34;https://boxitdeploy.vercel.app/#/&#34;&gt;https://boxitdeploy.vercel.app/#/&lt;/a&gt; (Maybe functional? Free servers generally suck)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trackers&#34;&gt;Trackers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Anime: &lt;a href=&#34;https://anime.yashlamba.com&#34;&gt;https://anime.yashlamba.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Books: &lt;a href=&#34;https://yashlamba.com/books&#34;&gt;https://yashlamba.com/books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blogs: &lt;a href=&#34;https://yashlamba.com/blogs&#34;&gt;https://yashlamba.com/blogs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Food: &lt;a href=&#34;https://food.yashlamba.com&#34;&gt;https://food.yashlamba.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Plants: Coming Soon!&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Handwrite CLI</title>
       <link>https://yashlamba.com/projects/handwrite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/projects/handwrite/</guid>
       <description>Trying to solve the handwritten assignment crisis...</description>
     </item>
-    
     <item>
       <title>Handwrite Web</title>
       <link>https://yashlamba.com/projects/handwrite-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yashlamba.com/projects/handwrite-web/</guid>
       <description>Fitting Handwrite in a web app.</description>
     </item>
-    
-    
   </channel>
 </rss>
