@@ -9,9 +9,9 @@
       <url>https://yashlamba.com/images/social_preview.png</url>
       <link>https://yashlamba.com/images/social_preview.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.149.1</generator>
     <language>en</language>
-    <copyright>2022 Yash Lamba</copyright>
+    <copyright>2025 Yash Lamba</copyright>
     <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate>
     <atom:link href="https://yashlamba.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -52,8 +52,10 @@
       <guid>https://yashlamba.com/about/</guid>
       <description>&lt;p&gt;Hi, here&amp;rsquo;s a little about me.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;I am a software engineer currently working at CERN. I&amp;rsquo;ve worked on multiple projects and am fast at learning new things. Currently, I am getting better at software architecture, databases and cloud. I have also worked on building production ready ML/AI systems.&lt;/p&gt;
-&lt;p&gt;I always find myself in situations where I know the most complicated stuff but end up Googling the simplest things (like how to read csv hehe). I can learn new stuff fairly quickly and build amazing things with it! You can find most of my builds on &lt;a href=&#34;https://github.com/yashlamba&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Namaskar! 🙏&lt;/p&gt;
+&lt;p&gt;I am Yash, a software engineer at CERN. I am passionate about building software, teaching, interacting with people and learning new things. With
+the power of code, I try to make fun and useful things.&lt;/p&gt;
+&lt;p&gt;Most of my exerience has been working on backend systems. I have built end-to-end AI/ML systems, scalable web applications and worked on creative bio-tech and computer vision projects. I am currently improving my skills in software design, databases and AI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Books</title>
@@ -107,18 +109,22 @@
 &lt;p&gt;Projects, things I track etc.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Simulate: &lt;a href=&#34;https://builtree.org/simulate&#34;&gt;https://builtree.org/simulate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Handwrite: &lt;a href=&#34;https://builtree.org/handwrite&#34;&gt;https://builtree.org/handwrite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Snake game: &lt;a href=&#34;https://yashlamba.com/snake&#34;&gt;https://yashlamba.com/snake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;BoxIt: &lt;a href=&#34;https://boxitdeploy.vercel.app/#/&#34;&gt;https://boxitdeploy.vercel.app/#/&lt;/a&gt; (Maybe functional? Free servers generally suck)&lt;/li&gt;
+&lt;li&gt;Simulate: &lt;a href=&#34;https://yashlamba.com/projects/simulate&#34;&gt;Beautiful simulations written in Dart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Handwrite: &lt;a href=&#34;https://yashlamba.com/projects/handwrite&#34;&gt;Turn your handwriting into a font&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BoxIt: &lt;a href=&#34;https://boxitdeploy.vercel.app/#/&#34;&gt;Was a multiplayer game&lt;/a&gt; (One day I&amp;rsquo;ll bring the servers back!)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;trackers&#34;&gt;Trackers&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Anime: &lt;a href=&#34;https://anime.yashlamba.com&#34;&gt;https://anime.yashlamba.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Books: &lt;a href=&#34;https://yashlamba.com/books&#34;&gt;https://yashlamba.com/books&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Blogs: &lt;a href=&#34;https://yashlamba.com/blogs&#34;&gt;https://yashlamba.com/blogs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Food: &lt;a href=&#34;https://food.yashlamba.com&#34;&gt;https://food.yashlamba.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Plants: Coming Soon!&lt;/li&gt;
+&lt;li&gt;📚 Books: &lt;a href=&#34;https://yashlamba.com/books&#34;&gt;https://yashlamba.com/books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖋️ Blogs: &lt;a href=&#34;https://yashlamba.com/blogs&#34;&gt;https://yashlamba.com/blogs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📺 Anime: &lt;a href=&#34;https://anime.yashlamba.com&#34;&gt;https://anime.yashlamba.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🧑‍🍳 Recipes: Coming Soon!&lt;/li&gt;
+&lt;li&gt;🥘 Food: &lt;a href=&#34;https://food.yashlamba.com&#34;&gt;https://food.yashlamba.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌱 Plants: Coming Soon!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fun-stuff&#34;&gt;Fun stuff:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Snake game: &lt;a href=&#34;https://yashlamba.com/snake&#34;&gt;https://yashlamba.com/snake&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
