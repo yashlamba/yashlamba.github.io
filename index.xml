@@ -9,7 +9,7 @@
       <url>https://yashlamba.com/images/social_preview.png</url>
       <link>https://yashlamba.com/images/social_preview.png</link>
     </image>
-    <generator>Hugo -- 0.149.1</generator>
+    <generator>Hugo -- 0.161.1</generator>
     <language>en</language>
     <copyright>2025 Yash Lamba</copyright>
     <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate>
@@ -63,7 +63,8 @@ the power of code, I try to make fun and useful things.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yashlamba.com/books/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;I used to read a lot from my 9-12 grade, but somehow lost the habit of reading in college. I have started reading again recently and decided to track the books I remember well. If you have any book recommendations, I&amp;rsquo;ll be happy to hear them via DMs/Mail.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I used to read a lot from my 9-12 grade, but somehow lost the habit of reading in college. I have started reading again recently and decided to track the books I remember well. If you have any book recommendations, I&amp;rsquo;ll be happy to hear them via DMs/Mail.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;currently-reading&#34;&gt;Currently Reading&lt;/h3&gt;
 
 
@@ -106,7 +107,8 @@ the power of code, I try to make fun and useful things.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yashlamba.com/explore/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Projects, things I track etc.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Projects, things I track etc.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Simulate: &lt;a href=&#34;https://yashlamba.com/projects/simulate&#34;&gt;Beautiful simulations written in Dart&lt;/a&gt;&lt;/li&gt;
