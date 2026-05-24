@@ -34,5 +34,19 @@
       <guid>https://yashlamba.com/projects/handwrite/</guid>
       <description>Trying to solve the handwritten assignment crisis...</description>
     </item>
+    <item>
+      <title>BGG Collection</title>
+      <link>https://yashlamba.com/projects/bgg-collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/projects/bgg-collection/</guid>
+      <description>A static page generator for BoardGameGeek data.</description>
+    </item>
+    <item>
+      <title>Snake Game</title>
+      <link>https://yashlamba.com/projects/snake-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/projects/snake-game/</guid>
+      <description>A small Flutter Snake game built as a beginner-friendly project.</description>
+    </item>
   </channel>
 </rss>
