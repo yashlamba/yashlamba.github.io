@@ -50,6 +50,13 @@
       <description>A small Flutter Snake game built as a beginner-friendly project.</description>
     </item>
     <item>
+      <title>Fractal Tree</title>
+      <link>https://yashlamba.com/projects/fractal-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/projects/fractal-tree/</guid>
+      <description>An interactive fractal tree visualization.</description>
+    </item>
+    <item>
       <title>Snake Game in Minutes with Flutter</title>
       <link>https://yashlamba.com/blogs/flutter-snake/</link>
       <pubDate>Sun, 24 Apr 2022 21:52:20 +0530</pubDate>
