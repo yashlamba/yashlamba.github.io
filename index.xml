@@ -22,6 +22,20 @@
       <description>Story of learning flutter through a fun project!</description>
     </item>
     <item>
+      <title>Handwrite Web</title>
+      <link>https://yashlamba.com/projects/handwrite-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/projects/handwrite-web/</guid>
+      <description>Fitting Handwrite in a web app.</description>
+    </item>
+    <item>
+      <title>Handwrite CLI</title>
+      <link>https://yashlamba.com/projects/handwrite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/projects/handwrite/</guid>
+      <description>Trying to solve the handwritten assignment crisis...</description>
+    </item>
+    <item>
       <title>My Web3 Experience: Polygon Fellowship 2022</title>
       <link>https://yashlamba.com/blogs/polygon-fellowship-2022/</link>
       <pubDate>Wed, 17 Aug 2022 20:51:20 +0530</pubDate>
@@ -128,20 +142,6 @@ the power of code, I try to make fun and useful things.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Snake game: &lt;a href=&#34;https://yashlamba.com/snake&#34;&gt;https://yashlamba.com/snake&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Handwrite CLI</title>
-      <link>https://yashlamba.com/projects/handwrite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yashlamba.com/projects/handwrite/</guid>
-      <description>Trying to solve the handwritten assignment crisis...</description>
-    </item>
-    <item>
-      <title>Handwrite Web</title>
-      <link>https://yashlamba.com/projects/handwrite-web/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yashlamba.com/projects/handwrite-web/</guid>
-      <description>Fitting Handwrite in a web app.</description>
     </item>
   </channel>
 </rss>
