@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -5,6 +6,8 @@
     <loc>https://yashlamba.com/projects/simulate/</loc>
   </url><url>
     <loc>https://yashlamba.com/projects/handwrite-web/</loc>
+  </url><url>
+    <loc>https://yashlamba.com/projects/boxit/</loc>
   </url><url>
     <loc>https://yashlamba.com/projects/handwrite/</loc>
   </url><url>
@@ -113,5 +116,7 @@
     <loc>https://yashlamba.com/tags/visualization/</loc>
   </url><url>
     <loc>https://yashlamba.com/tags/web/</loc>
+  </url><url>
+    <loc>https://yashlamba.com/tags/websockets/</loc>
   </url>
 </urlset>
