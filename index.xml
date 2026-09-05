@@ -9,11 +9,18 @@
       <url>https://yashlamba.com/images/social_preview.png</url>
       <link>https://yashlamba.com/images/social_preview.png</link>
     </image>
-    <generator>Hugo -- 0.162.0</generator>
+    <generator>Hugo -- 0.165.0</generator>
     <language>en</language>
     <copyright>2025 Yash Lamba</copyright>
     <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate>
     <atom:link href="https://yashlamba.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Cricket</title>
+      <link>https://yashlamba.com/learn/learn-cricket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/learn/learn-cricket/</guid>
+      <description>Cricket is not complicate, maybe a little...</description>
+    </item>
     <item>
       <title>Simulate</title>
       <link>https://yashlamba.com/projects/simulate/</link>

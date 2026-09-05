@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cricket on home/</title>
+    <link>https://yashlamba.com/tags/cricket/</link>
+    <description>Recent content in Cricket on home/</description>
+    <image>
+      <title>home/</title>
+      <url>https://yashlamba.com/images/social_preview.png</url>
+      <link>https://yashlamba.com/images/social_preview.png</link>
+    </image>
+    <generator>Hugo -- 0.165.0</generator>
+    <language>en</language>
+    <copyright>2025 Yash Lamba</copyright>
+    <atom:link href="https://yashlamba.com/tags/cricket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Cricket</title>
+      <link>https://yashlamba.com/learn/learn-cricket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/learn/learn-cricket/</guid>
+      <description>Cricket is not complicate, maybe a little...</description>
+    </item>
+  </channel>
+</rss>

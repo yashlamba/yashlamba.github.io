@@ -9,7 +9,7 @@
       <url>https://yashlamba.com/images/social_preview.png</url>
       <link>https://yashlamba.com/images/social_preview.png</link>
     </image>
-    <generator>Hugo -- 0.162.0</generator>
+    <generator>Hugo -- 0.165.0</generator>
     <language>en</language>
     <copyright>2025 Yash Lamba</copyright>
     <lastBuildDate>Wed, 17 Aug 2022 20:51:20 +0530</lastBuildDate>
@@ -148,6 +148,13 @@
       <description></description>
     </item>
     <item>
+      <title>Cricket</title>
+      <link>https://yashlamba.com/tags/cricket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/tags/cricket/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Docker</title>
       <link>https://yashlamba.com/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -159,6 +166,13 @@
       <link>https://yashlamba.com/tags/fontography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yashlamba.com/tags/fontography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive</title>
+      <link>https://yashlamba.com/tags/interactive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/tags/interactive/</guid>
       <description></description>
     </item>
     <item>
@@ -187,6 +201,13 @@
       <link>https://yashlamba.com/tags/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yashlamba.com/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>https://yashlamba.com/tags/sports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yashlamba.com/tags/sports/</guid>
       <description></description>
     </item>
     <item>

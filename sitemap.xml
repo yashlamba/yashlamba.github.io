@@ -1,8 +1,9 @@
-
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yashlamba.com/learn/learn-cricket/</loc>
+  </url><url>
     <loc>https://yashlamba.com/projects/simulate/</loc>
   </url><url>
     <loc>https://yashlamba.com/projects/handwrite-web/</loc>
@@ -93,11 +94,17 @@
   </url><url>
     <loc>https://yashlamba.com/tags/computer-vision/</loc>
   </url><url>
+    <loc>https://yashlamba.com/tags/cricket/</loc>
+  </url><url>
     <loc>https://yashlamba.com/tags/docker/</loc>
   </url><url>
     <loc>https://yashlamba.com/explore/</loc>
   </url><url>
     <loc>https://yashlamba.com/tags/fontography/</loc>
+  </url><url>
+    <loc>https://yashlamba.com/tags/interactive/</loc>
+  </url><url>
+    <loc>https://yashlamba.com/learn/</loc>
   </url><url>
     <loc>https://yashlamba.com/tags/mathematics/</loc>
   </url><url>
@@ -112,6 +119,8 @@
     <loc>https://yashlamba.com/tags/react/</loc>
   </url><url>
     <loc>https://yashlamba.com/search/</loc>
+  </url><url>
+    <loc>https://yashlamba.com/tags/sports/</loc>
   </url><url>
     <loc>https://yashlamba.com/tags/visualization/</loc>
   </url><url>
